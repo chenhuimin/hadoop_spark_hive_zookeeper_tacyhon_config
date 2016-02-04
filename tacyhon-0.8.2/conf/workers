@@ -1,0 +1,4 @@
+# A Tachyon Worker will be started on each of the machines listed below.
+chenhuimin01.localdomain
+chenhuimin02.localdomain
+chenhuimin03.localdomain

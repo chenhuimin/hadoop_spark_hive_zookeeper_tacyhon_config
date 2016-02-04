@@ -1,0 +1,6 @@
+<configuration>
+  <property>
+    <name>fs.tachyon-ft.impl</name>
+    <value>tachyon.hadoop.TFS</value>
+  </property>
+</configuration>
